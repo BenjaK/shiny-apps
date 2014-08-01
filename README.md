@@ -1,4 +1,4 @@
 shiny-apps
 ==========
 
-Apps I have created with Shiny
+Apps I have created with Shiny.
